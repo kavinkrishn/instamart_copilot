@@ -1,0 +1,4 @@
+{"timestamp": "2026-10-24T08:13:10.843830", "tool": "issue_refund", "order_id": "ORD-100048", "refund_inr": 128.25}
+{"timestamp": "2026-10-24T08:13:10.846330", "tool": "issue_refund", "order_id": "ORD-100067", "refund_inr": 135.0}
+{"timestamp": "2026-10-24T08:13:10.848335", "tool": "escalate_to_human", "order_id": "ORD-100145", "refund_inr": 1999.0}
+{"timestamp": "2026-10-24T08:13:10.860595", "tool": "issue_refund", "order_id": "ORD-100048", "refund_inr": 128.25}
